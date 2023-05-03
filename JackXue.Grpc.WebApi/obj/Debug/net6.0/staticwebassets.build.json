@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "u/WQlpKZprcHwtbCuDUewSS24L+h+P3qX6IrQUsj3+U=",
+  "Source": "JackXue.Grpc.WebApi",
+  "BasePath": "_content/JackXue.Grpc.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

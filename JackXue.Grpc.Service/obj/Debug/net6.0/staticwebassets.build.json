@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "t5oPc62H3WpqnD0G5gmZpaXsXDbCZiMOBdP+pa+2jL8=",
+  "Source": "JackXue.Grpc.Service",
+  "BasePath": "_content/JackXue.Grpc.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

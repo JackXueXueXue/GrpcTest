@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option csharp_namespace = "JackXue.Grpc.Service.Protos";
+
+package user;
+
+// The greeting service definition.
+service User {
+  // Sends a greeting
+  rpc GetUserInfo (UserInfoRequest) returns (UserInfoResult);
+}
+
+// The request message containing the user's name.
+message UserInfoRequest {
+  string UserName = 1;
+  int32 UserAge = 2;
+}
+
+// The response message containing the greetings.
+message UserInfoResult {
+  string UserName = 1;
+  int32 UserAge =2;
+  string Address = 3;
+}
